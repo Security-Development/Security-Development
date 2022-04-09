@@ -4,6 +4,6 @@
 Hello, I am a student at Hansei Cyber ​​Security High School.
 I'm working on security and development, and I'm interested in AI.
 
-<p align="center">
+<div align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Security-Development)](https://github.com/Security-Development/github-readme-stats)
-</p>
+<div>

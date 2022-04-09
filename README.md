@@ -6,3 +6,4 @@ I'm working on security and development, and I'm interested in AI.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Security-Development)](https://github.com/Security-Development/github-readme-stats)
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer)

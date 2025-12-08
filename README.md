@@ -14,7 +14,12 @@ Hello, I'm HeapX, I like pwn...
 - CVE-2023-46622  
 - CVE-2023-47533  
 - CVE-2023-48320  
-- CVE-2023-49176  
+- CVE-2023-49176
+
+---
+
+## Issued KVEs
+- KVE-2025-0294
 
 ---
 

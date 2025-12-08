@@ -25,7 +25,8 @@ Hello, I'm HeapX, I like pwn...
 
 ## Reporting History
 - **Cok** : IDOR Vulnerability Report  
-- **PatchStack** : WordPress Plugin Vulnerability Report  
+- **PatchStack** : WordPress Plugin Vulnerability Report
+- **KISA** : Vulnerability Report
 
 ---
 

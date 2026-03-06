@@ -20,6 +20,8 @@ Hello, I'm HeapX, I like pwn...
 
 ## Issued KVEs
 - KVE-2025-0294
+- KVE-2025-2805
+- KVE-2025-2807
 
 ---
 
